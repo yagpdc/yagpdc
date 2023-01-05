@@ -1,8 +1,8 @@
 ### Yago Santana
 
-👋 Olá, sou um estudante de engenharia de controle e automação com grande interesse em <strong>desenvolvimento web</strong>.
+👋 Olá, sou um estudante de engenharia de controle e automação com grande interesse em <strong>Desenvolvimento Web</strong>.
 
-📘 - Sempre estudando tecnologias <strong>front-end</strong>
+📘 - Sempre estudando tecnologias <strong>Front-End</strong>
 
 📋 - Atualmente focado em <strong>React</strong> 
 
