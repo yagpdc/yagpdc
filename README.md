@@ -1,5 +1,13 @@
-###  👋 Olá, mundo 🌍
-### Sou o Yago Santana !
+### Yago Santana
+
+👋 Olá, sou um estudante de engenharia de controle e automação com grande interesse em <strong>desenvolvimento web</strong>.
+
+📘 - Sempre estudando tecnologias <strong>front-end</strong>
+
+📋 - Atualmente focado em <strong>React</strong> 
+
+
+
 ##
 <div>
 <a href="https://github.com/yagpdc">
