@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/yagosantanaf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
   </div>
   
-![Snake animation](https://github.com/yagpdc/yagpdc/blob/output/github-contribution-grid-snake.svg)
+
