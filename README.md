@@ -4,7 +4,7 @@
 
 📘 - Sempre estudando tecnologias <strong>Front-End</strong>
 
-📋 - Atualmente focado em <strong>React</strong> 
+📋 - Atualmente focado em <strong>Next.js 13</strong> 
 
 
 
