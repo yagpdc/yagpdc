@@ -9,7 +9,7 @@
 <h3 align="center">A Passionate Web Developer from Brazil</h3>
 <img align="right" src="https://c.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif" alt="Coding" width="250">
 
-- 🔭 I’m currently focusing on: Learning Typescrit
+- 🔭 I’m currently focusing on: Learning Typescript
 
 - 🌱 I’m actively learning: ** Python, Javascript, C, Java, C# **
 
