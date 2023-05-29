@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently focusing on: Learning Typescript
 
-- 🌱 I’m actively learning: **Python, Javascript, C, Java, C#**
+- 🌱 I’m actively learning: **Python, Javascript, C, Java**
 
 - 📫 You can reach me by E-mail: **ysantanaf@gmail.com**
 
