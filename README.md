@@ -15,7 +15,7 @@
 
 - 📫 You can reach me by E-mail: **ysantanaf@gmail.com**
 
-- ⚡ Fun fact: I am pretty good in **Auto-Chess** or **Strategy related** games :D
+- ⚡ Fun fact: I am pretty good at **Auto-Chess** or **Strategy related** games :D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
